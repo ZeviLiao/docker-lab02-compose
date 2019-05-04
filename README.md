@@ -17,3 +17,7 @@ docker-compose up -d
 #shut down
 docker-compose down
 ```
+List containers
+```
+docker-compose ps
+```
